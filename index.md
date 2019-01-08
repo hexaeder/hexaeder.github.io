@@ -1,5 +1,6 @@
 ---
-dlayout: page
+layout: default
 title: wuerfel.io
 ---
-# Hello World!
+# wuerfel.io
+There is no content yet.
