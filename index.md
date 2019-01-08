@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wuerfel.io
+title: Home
 ---
 # wuerfel.io
 There is no content yet.
