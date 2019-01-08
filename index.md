@@ -1,5 +1,5 @@
 ---
-layout: page
-title: wuerfel.io
+dlayout: page
+dtitle: wuerfel.io
 ---
 Hello World!
