@@ -1,5 +1,5 @@
 ---
 dlayout: page
-dtitle: wuerfel.io
+title: wuerfel.io
 ---
 Hello World!
